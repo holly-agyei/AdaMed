@@ -1,0 +1,7 @@
+{
+  "label_accuracy": 0.5042,
+  "domain_accuracy": 0.8617,
+  "n_epochs": 50,
+  "config_name": "baseline_dann",
+  "notes": "Label accuracy degraded from ~0.62 to ~0.50 (random chance) as alpha increased. Domain accuracy remained high throughout, confirming domains are easily separable and adversarial training failed to achieve alignment."
+}
