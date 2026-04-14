@@ -1,8 +1,5 @@
 """
 Evaluation metrics for domain adaptation experiments.
-
-Includes standard classification metrics and domain-adaptation-specific
-measures like proxy A-distance and domain accuracy.
 """
 
 import numpy as np
